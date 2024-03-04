@@ -1,6 +1,6 @@
 ### Hi there 😄✌
 
-- 🌱 I’m currently looking for roles as a Data Engineer!
+- 🌱 Having completed a 13 week data engineering bootcamp, I’m currently looking for roles as a Data Engineer!
 - 👯 I’m looking to collaborate on Python, SQL, AWS learning.
 - 📫 How to reach me: Slack: Tom Roberts. Linkedin: Thomas Roberts
 - 😄 Pronouns: he/him
