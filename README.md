@@ -1,7 +1,7 @@
 ### Hi there 😄✌
 
-- 🌱 I’m currently learning Javascript, ready to join the Northcoders Data Engineering cohort on the 27th November!
-- 👯 I’m looking to collaborate on Javascript, Python and data engineering learning and development.
+- 🌱 I’m currently looking for roles as a Data Engineer!
+- 👯 I’m looking to collaborate on Python, SQL, AWS learning.
 - 📫 How to reach me: Slack: Tom Roberts. Linkedin: Thomas Roberts
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have swam with humpback whales!
