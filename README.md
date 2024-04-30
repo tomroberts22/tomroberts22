@@ -1,11 +1,5 @@
-### Hi there 😄
-I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm excited to dive into the world of data.
-
-Before making this career switch, I spent some time as a Corporate Actions Manager, where I learned a lot about leading teams and navigating complex operations across different countries.
-
-Now, armed with skills in ETL processes and data pipelines, I'm eager to apply my knowledge to make a meaningful impact in the data engineering field. I believe in the power of data to drive insights and make informed decisions.
-
-If you're looking for someone who's ready to roll up their sleeves and contribute to data-driven projects, I'd love to connect and see how we can work together.✌
+Hi there, I'm Tom!
+I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm excited to dive into the world of data. Before making this career switch, I spent some time as a Corporate Actions Manager, where I learned a lot about leading teams and navigating complex operations across different countries. Now, armed with skills in ETL processes and data pipelines, I'm eager to apply my knowledge to make a meaningful impact in the data engineering field. I believe in the power of data to drive insights and make informed decisions. If you're looking for someone who's ready to roll up their sleeves and contribute to data-driven projects, I'd love to connect and see how we can work together.✌
 
 <h3> Languages:</h3>
 <p>
