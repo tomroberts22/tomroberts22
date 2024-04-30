@@ -1,3 +1,4 @@
+<h3> About little about me:</h3>
 Hi there, I'm Tom! 👋
 <p></p>
 I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm excited to dive into the world of data. Before making this career switch, I spent some time as a Corporate Actions Manager, where I learned a lot about leading teams and navigating complex operations across different countries. Now, armed with skills in ETL processes and data pipelines, I'm eager to apply my knowledge to make a meaningful impact in the data engineering field. I believe in the power of data to drive insights and make informed decisions. If you're looking for someone who's ready to roll up their sleeves and contribute to data-driven projects, I'd love to connect and see how we can work together.✌
@@ -18,4 +19,13 @@ I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm exc
 <a target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>   
 </p>
+
+<h3>Projects:</h3>
+
+<b>de-totes-project<b>
+My Northcoders Data Engineering final group project - three AWS Lambda functions handling extraction, transformation and loading tasks from a database to a data warehouse.
+Lambda functions and required utility functions written in Python, using Test-Driven Development
+PSQL used to extract and load from the database and to the data warehouse
+Infrastructure as Code approach, using Terraform to create AWS resources
+Continuous Integration/Continuous Deployment using GitHub Actions
 
