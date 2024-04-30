@@ -22,10 +22,11 @@ I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm exc
 
 <h3>Projects:</h3>
 
-<b>de-totes-project<b>
-My Northcoders Data Engineering final group project - three AWS Lambda functions handling extraction, transformation and loading tasks from a database to a data warehouse.
+de-totes-project
+<p></p>
+My Northcoders Data Engineering final group project - three AWS Lambda functions responsible for extracting, transforming and loading data from a database to a data warehouse.
 Lambda functions and required utility functions written in Python, using Test-Driven Development
 PSQL used to extract and load from the database and to the data warehouse
-Infrastructure as Code approach, using Terraform to create AWS resources
+Infrastructure as Code approach, using Terraform to create AWS resources and create the IAC for our code.
 Continuous Integration/Continuous Deployment using GitHub Actions
 
