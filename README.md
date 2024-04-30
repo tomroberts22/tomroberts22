@@ -1,11 +1,12 @@
 ### Hi there 😄✌
 
-| Languages | Tools |
-| -------- | ------- |
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python  |  [![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) Terraform |
-| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) SQL |  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) AWS  |
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript  |  [![My Skills](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev) GitHub Actions  |
-| [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) Shell Script |  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) Visual Studio Code  |
+<h3> Languages:</h3>
+<p>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
+<a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a target="_blank"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> 
+</p>
 
 - 🌱 Having completed a 13 week data engineering bootcamp, I’m currently looking for roles as a Data Engineer!
 - 👯 I’m looking to collaborate on Python, SQL, AWS learning.
