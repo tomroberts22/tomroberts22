@@ -28,5 +28,5 @@ de-totes-project
 <li>Lambda functions and required utility functions written in Python, using Test-Driven Development
 <li>PSQL used to extract and load from the database and to the data warehouse
 <li>Infrastructure as Code approach, using Terraform to create AWS resources and create the IAC for our code.
-<li>Continuous Integration/Continuous Deployment using GitHub Actions<li></u1>
+<li>Continuous Integration/Continuous Deployment using GitHub Actions</u1>
 
