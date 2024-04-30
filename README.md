@@ -22,7 +22,7 @@ I recently graduated from the Northcoders Data Engineering Bootcamp, and I'm exc
 
 <h3>Projects:</h3>
 
-<u>de-totes-project<u>
+de-totes-project
 <p></p>
 <u1>My Northcoders Data Engineering final group project - three AWS Lambda functions responsible for extracting, transforming and loading data from a database to a data warehouse.
 <li>Lambda functions and required utility functions written in Python, using Test-Driven Development
